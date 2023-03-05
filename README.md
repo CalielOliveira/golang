@@ -1,3 +1,4 @@
 # golang
 
-docker pull calieloliveira/fullcycle:latest
+link: https://hub.docker.com/r/calieloliveira/fullcycle
+command: docker pull calieloliveira/fullcycle:latest
